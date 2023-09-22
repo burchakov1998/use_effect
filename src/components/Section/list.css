@@ -1,0 +1,37 @@
+ul.user-list {
+  list-style-type: none;
+  width: 200px;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+li.user-list-item.item-list {
+  height: 40px;
+}
+
+.user-list-item-wrap {
+  height: 100%;
+}
+.user-list_btn {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+h5.card-title {
+  margin: 0 auto;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.image-wrapper {
+  height: 200px;
+}
+
+img.card-image {
+  width: 100%;
+  height: 100%;
+}
+

@@ -1,0 +1,25 @@
+/*Details*/
+
+
+.current-user-card {
+    margin-top: 40px;
+    margin-left: 40px;
+    width: 200px;
+  }
+  .current-user-card-content {
+    border-top: none;
+    min-height: 30px;
+  }
+  
+  .curent-user-card-content {
+    display: flex;
+    flex-direction: column;
+  }
+  .card-text,
+  .card-title {
+    border-left: 1px solid #d9d2d2;
+    border-right: 1px solid #d9d2d2;
+    border-bottom: 1px solid #d9d2d2;
+    padding: 10px;
+  }
+  
